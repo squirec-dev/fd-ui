@@ -47,6 +47,7 @@ PATCH bump for bug fixes.
 - List - Options; vertical, inline, comma parsed
 - Loader
 - Responsive Image - lazy load with perserved space
+- Skip Link
 - Step-->
 
 ### Utilities
